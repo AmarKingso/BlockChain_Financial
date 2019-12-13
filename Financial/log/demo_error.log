@@ -1,0 +1,13 @@
+[ERROR] [2019-12-12 19:30:40] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:For input string: "x4e25a"
+[ERROR] [2019-12-12 19:35:46] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:For input string: "x4e25a"
+[ERROR] [2019-12-12 19:38:03] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:For input string: "x4e25a"
+[ERROR] [2019-12-12 19:40:08] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:For input string: "x4e25a"
+[ERROR] [2019-12-12 19:45:00] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:For input string: "x4e"
+[ERROR] [2019-12-12 19:47:01] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:For input string: "x4e25a"
+[ERROR] [2019-12-12 20:40:47] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:For input string: "xcf03d"
+[ERROR] [2019-12-12 21:39:41] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:Zero length BigInteger
+[ERROR] [2019-12-12 21:39:41] org.fisco.bcos.financial.client.FinancialClient.acountExist(168) |  issueAccount exception, error message is null
+[ERROR] [2019-12-12 21:40:06] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:Zero length BigInteger
+[ERROR] [2019-12-12 21:40:06] org.fisco.bcos.financial.client.FinancialClient.acountExist(168) |  issueAccount exception, error message is null
+[ERROR] [2019-12-12 21:42:47] org.fisco.bcos.web3j.crypto.gm.GenCredential.createECDSAKeyPair(62) | create keypair of ECDSA failed, error msg:Zero length BigInteger
+[ERROR] [2019-12-12 21:42:47] org.fisco.bcos.financial.client.FinancialClient.acountExist(168) |  issueAccount exception, error message is null
