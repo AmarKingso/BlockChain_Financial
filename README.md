@@ -11,3 +11,6 @@ Ubuntu16.04 + Eclipse + JDK11
 
 ## 运行方法
 运行org.fisco.bcos.financial.ui中的Starter.java文件
+
+## 实际操作
+需要先进行银行注册，因为设想情景是一个银行对应一个合约，所以在注册银行同时会自动部署合约，注册成功后再返回主界面，方可注册企业
